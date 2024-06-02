@@ -1,0 +1,10 @@
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\bin\Debug\Wolf_of_Wallstreet.exe.config
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\bin\Debug\Wolf_of_Wallstreet.exe
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\bin\Debug\Wolf_of_Wallstreet.pdb
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.csproj.AssemblyReference.cache
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.Properties.Resources.resources
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.csproj.GenerateResource.cache
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.csproj.CoreCompileInputs.cache
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.exe
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.pdb
+C:\Users\nguyenducthanh\Downloads\Wolf_of_Wallstreet\obj\Debug\Wolf_of_Wallstreet.Form1.resources
